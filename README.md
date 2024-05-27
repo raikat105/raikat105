@@ -1,5 +1,6 @@
-## Hi there 👋
+Hello, I'm Raikat.Interested in learning and exploring more about engineering, AI, ML and DS.
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <!--
 **raikat105/raikat105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
