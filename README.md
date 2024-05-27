@@ -3,7 +3,7 @@ Hello, I'm Raikat. Interested in learning and exploring more about engineering, 
 💻 My Technical Skills 
 
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=&logoColor=white)
+![C](https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=&logoColor=white)
 <!--
 **raikat105/raikat105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
