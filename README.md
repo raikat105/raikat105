@@ -5,7 +5,7 @@ Hello, I'm Raikat. Interested in learning and exploring more about engineering, 
 
 ![C](https://img.shields.io/badge/C-0000b3?style=for-the-badge&logo=&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0000b3?style=for-the-badge&logo=&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 ![HTML](https://img.shields.io/badge/HTML-0000ff?style=for-the-badge&logo=HTML&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff0000?style=for-the-badge&logo=&logoColor=black)
 <!--
